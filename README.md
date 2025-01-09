@@ -1,4 +1,3 @@
 - 👋 Hi, I'm @luis-txt
-- 👀 I'm interested in interesting technologies.
-- 🌱 I’m currently learning how this weird computer-thing works.
-- 📫 How to reach me: With a carrier pigeon or by message in a bottle.
+- Computer science student at the University of Konstanz
+- Interested in graph theory, theoretical computer science and algorithmics in general
